@@ -1,0 +1,8 @@
+b.c 2018-10-14 22:47:50,771 INFO normal infor for log1
+b.c 2018-10-14 22:47:50,771 WARNING warning info for log1:b.c
+b.c 2018-10-14 22:47:50,773 ERROR error info for log1:abcd
+b.c 2018-10-14 22:47:50,773 CRITICAL critical info for log1:not worked
+b.c 2018-10-22 10:26:59,266 INFO normal infor for log1
+b.c 2018-10-22 10:26:59,266 WARNING warning info for log1:b.c
+b.c 2018-10-22 10:26:59,266 ERROR error info for log1:abcd
+b.c 2018-10-22 10:26:59,266 CRITICAL critical info for log1:not worked
